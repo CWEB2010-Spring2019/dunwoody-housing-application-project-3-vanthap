@@ -13,7 +13,7 @@ Create a GUI application that allows a Resident Director to create new residents
 
 ## Requirements
 
-Create using .NET Core Console Application
+Create using WPF
 
 The Program should make use of Object Oriented Principles discussed in class and utilize additional class structures that implement inheritance and a level of abstraction. 
 
